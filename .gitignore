@@ -1,0 +1,7 @@
+/build
+/.clang
+/.codelite
+/.vscode
+/AirCam.project
+/AirCam.workspace
+/postbuild.sh
